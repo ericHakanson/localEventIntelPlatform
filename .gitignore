@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Node / Evidence
+node_modules/
+.npm/
+.pnpm-store/
+dist/
+build/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Local data and scratch space
+data/
+tmp/
+logs/
+*.log
+
+# OS and tooling
+Thumbs.db
+
