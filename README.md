@@ -32,6 +32,7 @@ life-event and market-activity signals that predict local spending.
 
 - [Business requirements](/Users/erichakanson/projects/localEventIntelPlatform/docs/requirements/event_intelligence_v2_business_requirements.md)
 - [Platform architecture and data model](/Users/erichakanson/projects/localEventIntelPlatform/docs/architecture/platform_architecture_and_data_model.md)
+- [Phase one execution plan](/Users/erichakanson/projects/localEventIntelPlatform/docs/architecture/phase_one_execution_plan.md)
 - [QA risk register and open questions](/Users/erichakanson/projects/localEventIntelPlatform/docs/qa/qa_risk_register_and_open_questions.md)
 - [Codex handoff context from 2026-03-06](/Users/erichakanson/projects/localEventIntelPlatform/docs/handoffs/codex_handoff_context_2026-03-06.md)
 
